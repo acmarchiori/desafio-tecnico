@@ -38,8 +38,19 @@ Este projeto foi desenvolvido como parte do processo seletivo para o Estágio em
   - `Desafio5.js`: Implementação e lógica para o desafio 5.
 - `tests/`: Contém os testes automatizados para os componentes.
 
+## Referências
+
+Aqui estão algumas referências úteis:
+
+- [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide])
+- [Documentação do React](https://reactjs.org/docs/getting-started.html)
+- [Documentação do Jest](https://jestjs.io/docs/getting-started)
+
+
 ## Observações Importantes
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar o projeto.
 
 Este projeto foi desenvolvido como parte do teste técnico para a vaga de estágio na Target. Se você encontrar algum problema ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
+
+**Link para a aplicação publicada: [Trybetunes - Minha Plataforma Musical](https://desafio-tecnico-target.surge.sh/)**
