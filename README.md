@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo para o Estágio em Desenvolvimento na Target. Ele aborda uma série de desafios lógicos e de programação e inclui testes automatizados para avaliação das soluções.
 
-## Como Executar o Projeto
+## Como Utilizar
 
 1. **Clonar o repositório:**
 `git clone https://github.com/acmarchiori/projeto-trybetunes.git`.
@@ -18,6 +18,9 @@ Este projeto foi desenvolvido como parte do processo seletivo para o Estágio em
 
 5. **Acesse a aplicação em seu navegador através do endereço:**
 `http://localhost:3000`.
+
+## Ou acesse diretamente o desafio pelo seu navegador
+**Link para a aplicação publicada: [Desafio Técnico](https://desafio-tecnico-target.surge.sh/)**
 
 ## Como Executar os Testes
 
@@ -52,5 +55,3 @@ Aqui estão algumas referências úteis:
 Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar o projeto.
 
 Este projeto foi desenvolvido como parte do teste técnico para a vaga de estágio na Target. Se você encontrar algum problema ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
-
-**Link para a aplicação publicada: [Trybetunes - Minha Plataforma Musical](https://desafio-tecnico-target.surge.sh/)**
